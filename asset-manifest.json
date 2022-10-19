@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-nevatrip-js/static/css/main.e6c13ad2.css",
+    "main.js": "/test-nevatrip-js/static/js/main.3bf53f3e.js",
+    "static/js/787.b3116e57.chunk.js": "/test-nevatrip-js/static/js/787.b3116e57.chunk.js",
+    "index.html": "/test-nevatrip-js/index.html",
+    "main.e6c13ad2.css.map": "/test-nevatrip-js/static/css/main.e6c13ad2.css.map",
+    "main.3bf53f3e.js.map": "/test-nevatrip-js/static/js/main.3bf53f3e.js.map",
+    "787.b3116e57.chunk.js.map": "/test-nevatrip-js/static/js/787.b3116e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3bf53f3e.js"
+  ]
+}
